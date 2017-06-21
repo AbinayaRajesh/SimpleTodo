@@ -30,11 +30,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since this was one of my first times working with android, it was difficult to grasp concepts like intents and adapters. I have also not used git much and it was difficult to navigate my way through it but it was really nice to learn the concept since it's useful for group projects.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Abinaya Rajesh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
