@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[demo] (demo.mp4)
+<img src='https://github.com/AbinayaRajesh/SimpleTodo/blob/master/demo.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
