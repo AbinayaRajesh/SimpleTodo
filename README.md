@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[demo] demo.mp4
+[demo] (demo.mp4)
 
 
 ## Notes
