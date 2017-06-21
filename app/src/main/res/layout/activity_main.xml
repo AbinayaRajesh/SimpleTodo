@@ -24,7 +24,7 @@
         android:layout_above="@+id/btnAddItem"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_toStartOf="@+id/btnAddItem" />
+        android:layout_toLeftOf="@+id/btnAddItem" />
 
     <EditText
         android:id="@+id/etNewItem"
@@ -38,5 +38,6 @@
         android:ems="10"
         android:hint="Add a new item"
         android:inputType="textPersonName" />
+
 
 </RelativeLayout>
